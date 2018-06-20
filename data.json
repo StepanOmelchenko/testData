@@ -1,54 +1,10 @@
 [
   {
     "title": "first line",
-    "carts":[
-              {
-                "name": "#",
-                "link": "#",
-                "img": "#",
-                "vk": "#",
-                "fb": "#"
-              },
-              {
-                "name": "#",
-                "link": "#",
-                "img": "#",
-                "vk": "#",
-                "fb": "#"
-              },
-              {
-                "name": "#",
-                "link": "#",
-                "img": "#",
-                "vk": "#",
-                "fb": "#"
-              }
-            ]
+    "carts": "1"
   },
   {
     "title": "second line",
-    "carts":[
-              {
-                "name": "#",
-                "link": "#",
-                "img": "#",
-                "vk": "#",
-                "fb": "#"
-              },
-              {
-                "name": "#",
-                "link": "#",
-                "img": "#",
-                "vk": "#",
-                "fb": "#"
-              },
-              {
-                "name": "#",
-                "link": "#",
-                "img": "#",
-                "vk": "#",
-                "fb": "#"
-              }
-            ]
+    "carts": "2"
   }
 ]
