@@ -5,6 +5,7 @@
               {
                 "name": "Jon Snow",
                 "link": "https://en.wikipedia.org/wiki/Jon_Snow_(character)",
+                "linkTitle": "@Jon",
                 "img": "no img",
                 "vk": "vk",
                 "fb": "fb"
@@ -12,6 +13,7 @@
               {
                 "name": "Sansa Stark",
                 "link": "https://en.wikipedia.org/wiki/Sansa_Stark",
+                "linkTitle": "@Sansa",
                 "img": "no img",
                 "vk": "vk",
                 "fb": "fb"
@@ -19,6 +21,7 @@
               {
                 "name": "Arya Stark",
                 "link": "https://en.wikipedia.org/wiki/Arya_Stark",
+                "linkTitle": "@Arya",
                 "img": "no img",
                 "vk": "vk",
                 "fb": "fb"
@@ -26,6 +29,7 @@
               {
                 "name": "Bran Stark",
                 "link": "https://en.wikipedia.org/wiki/Bran_Stark",
+                "linkTitle": "@Bran",
                 "img": "no img",
                 "vk": "vk",
                 "fb": "fb"
@@ -33,6 +37,7 @@
               {
                 "name": "Ygritte",
                 "link": "https://en.wikipedia.org/wiki/Ygritte",
+                "linkTitle": "@Ygritte",
                 "img": "no img",
                 "vk": "vk",
                 "fb": "fb"
