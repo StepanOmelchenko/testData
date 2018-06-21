@@ -43,5 +43,47 @@
                 "fb": "fb"
               }
               ]
+  },
+  {
+    "title": "3 карточки",
+    "carts": [
+              {
+                "name": "Jon Snow",
+                "link": "https://en.wikipedia.org/wiki/Jon_Snow_(character)",
+                "linkTitle": "@Jon",
+                "img": "no img",
+                "vk": "vk",
+                "fb": "fb"
+              },
+              {
+                "name": "Sansa Stark",
+                "link": "https://en.wikipedia.org/wiki/Sansa_Stark",
+                "linkTitle": "@Sansa",
+                "img": "no img",
+                "vk": "vk",
+                "fb": "fb"
+              },
+              {
+                "name": "Arya Stark",
+                "link": "https://en.wikipedia.org/wiki/Arya_Stark",
+                "linkTitle": "@Arya",
+                "img": "no img",
+                "vk": "vk",
+                "fb": "fb"
+              }
+              ]
+  },
+  {
+    "title": "1 карточка",
+    "carts": [
+              {
+                "name": "Jon Snow",
+                "link": "https://en.wikipedia.org/wiki/Jon_Snow_(character)",
+                "linkTitle": "@Jon",
+                "img": "no img",
+                "vk": "vk",
+                "fb": "fb"
+              }
+              ]
   }
 ]
