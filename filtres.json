@@ -1,0 +1,12 @@
+{
+  "price": {
+    "minPrice": "0",
+    "maxPrice": "100000",
+    "currentMinPrice": "0",
+    "currentMaxPrice": "100000",
+    "blitzMinPrice": "0",
+    "blitzMaxPrice": "100000",
+    "rateStepMin": "0",
+    "rateStepMax": "10000"
+  }
+}
