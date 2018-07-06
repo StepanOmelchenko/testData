@@ -8,5 +8,10 @@
     "blitzMaxPrice": "100000",
     "rateStepMin": "0",
     "rateStepMax": "10000"
+  },
+  "types": {
+    "type1": "Тип1",
+    "type2": "Тип2",
+    "type3": "Тип3"
   }
 }
