@@ -6,7 +6,8 @@
     "prepayment": "1000",
     "autor": "Борис",
     "description": "Lorel ipsum dolor sit amet",
-    "deadline": "3600"
+    "deadline": "3600",
+    "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png"
   },
   {
     "id": "011",
@@ -15,7 +16,8 @@
     "prepayment": "100",
     "autor": "Борис",
     "description": "Lorel ipsum dolor sit amet",
-    "deadline": "3600"
+    "deadline": "3600",
+    "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png"
   },
   {
     "id": "045",
@@ -24,6 +26,7 @@
     "prepayment": "500",
     "autor": "Борис",
     "description": "Lorel ipsum dolor sit amet",
-    "deadline": "3600"
+    "deadline": "3600",
+    "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png"
   }
 ]
