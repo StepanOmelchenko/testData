@@ -7,6 +7,8 @@
     "autor": "Борис",
     "description": "Lorel ipsum dolor sit amet",
     "deadline": "3600",
+    "subscribe": "345",
+    "numberOfViews: "231",
     "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png"
   },
   {
@@ -17,6 +19,8 @@
     "autor": "Борис",
     "description": "Lorel ipsum dolor sit amet",
     "deadline": "3600",
+    "subscribe": "35",
+    "numberOfViews: "21",
     "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png"
   },
   {
@@ -27,6 +31,8 @@
     "autor": "Борис",
     "description": "Lorel ipsum dolor sit amet",
     "deadline": "3600",
+    "subscribe": "34",
+    "numberOfViews: "317",
     "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png"
   }
 ]
