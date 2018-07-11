@@ -2,16 +2,28 @@
   {
     "id": "003",
     "title": "Заголовок тут",
-    "price": "9000"
+    "payment": "9000",
+    "prepayment": "1000",
+    "autor": "Борис"
+    "description": "Lorel ipsum dolor sit amet",
+    "deadline": "3600"
   },
   {
     "id": "011",
     "title": "Заголовок еще",
-    "price": "1500"
+    "payment": "1500",
+    "prepayment": "100",
+    "autor": "Борис"
+    "description": "Lorel ipsum dolor sit amet",
+    "deadline": "3600"
   },
   {
     "id": "045",
     "title": "Заголовок два",
-    "price": "4567"
+    "payment": "4567",
+    "prepayment": "500",
+    "autor": "Борис"
+    "description": "Lorel ipsum dolor sit amet",
+    "deadline": "3600"
   }
 ]
