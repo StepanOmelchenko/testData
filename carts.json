@@ -4,7 +4,7 @@
     "title": "Заголовок тут",
     "payment": "9000",
     "prepayment": "1000",
-    "autor": "Борис"
+    "autor": "Борис",
     "description": "Lorel ipsum dolor sit amet",
     "deadline": "3600"
   },
@@ -13,7 +13,7 @@
     "title": "Заголовок еще",
     "payment": "1500",
     "prepayment": "100",
-    "autor": "Борис"
+    "autor": "Борис",
     "description": "Lorel ipsum dolor sit amet",
     "deadline": "3600"
   },
@@ -22,7 +22,7 @@
     "title": "Заголовок два",
     "payment": "4567",
     "prepayment": "500",
-    "autor": "Борис"
+    "autor": "Борис",
     "description": "Lorel ipsum dolor sit amet",
     "deadline": "3600"
   }
