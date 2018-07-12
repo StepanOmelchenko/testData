@@ -1,7 +1,7 @@
 [
   {
     "id": "003",
-    "title": "Заголовок тут",
+    "title": "Lorem ipsum dolor",
     "payment": "9000",
     "prepayment": "1000",
     "autor": "Борис",
@@ -14,7 +14,7 @@
   },
   {
     "id": "011",
-    "title": "Заголовок еще",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     "payment": "1500",
     "prepayment": "100",
     "autor": "Борис",
@@ -27,7 +27,7 @@
   },
   {
     "id": "045",
-    "title": "Заголовок два",
+    "title": "Lorem ipsum dolor sit amet",
     "payment": "4567",
     "prepayment": "500",
     "autor": "Борис",
@@ -35,6 +35,19 @@
     "deadline": "3600",
     "subscribe": "34",
     "numberOfViews": "317",
+    "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien."
+  },
+  {
+    "id": "067",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "payment": "200",
+    "prepayment": "50",
+    "autor": "Аслан",
+    "description": "Lorel ipsum dolor sit amet",
+    "deadline": "7000",
+    "subscribe": "200",
+    "numberOfViews": "6000",
     "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien."
   }
