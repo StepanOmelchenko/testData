@@ -9,7 +9,8 @@
     "deadline": "3600",    
     "subscribe": "34",
     "numberOfViews": "317",
-    "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png"
+    "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien."
   },
   {
     "id": "011",
@@ -21,7 +22,8 @@
     "deadline": "3600",    
     "subscribe": "34",
     "numberOfViews": "317",
-    "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png"
+    "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien."
   },
   {
     "id": "045",
@@ -33,6 +35,7 @@
     "deadline": "3600",
     "subscribe": "34",
     "numberOfViews": "317",
-    "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png"
+    "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien."
   }
 ]
