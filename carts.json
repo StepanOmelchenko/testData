@@ -5,6 +5,7 @@
     "payment": "9000",
     "currency": "rub",
     "prepayment": "1000",
+    "category": "Разработка / Проект",
     "autor": "Марат",
     "autorImg": "http://photo.qip.ru/photo/marchiarchi/4294374/xlarge/108009290.jpg",
     "description": "Lorel ipsum dolor sit amet",
@@ -14,7 +15,11 @@
     "publicationDate": "",
     "siteType": "landing",
     "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien.",
+    "demands": ["требование","требование","требование"],
+    "addDemands": ["требование","требование","требование"],
+    "demandsCandidate": ["требование","требование","требование"],
+    "addDemandsCandidate": ["требование","требование","требование"]
   },
   {
     "id": "011",
@@ -22,6 +27,7 @@
     "payment": "1500",
     "currency": "eur",
     "prepayment": "100",
+    "category": "Разработка / Проект",
     "autor": "Борис",
     "autorImg": "http://photo.qip.ru/photo/marchiarchi/4294374/xlarge/108009290.jpg",
     "description": "Lorel ipsum dolor sit amet",
@@ -31,7 +37,11 @@
     "publicationDate": "",
     "siteType": "landing",
     "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien.",
+    "demands": ["требование","требование","требование"],
+    "addDemands": ["требование","требование","требование"],
+    "demandsCandidate": ["требование","требование","требование"],
+    "addDemandsCandidate": ["требование","требование","требование"]
   },
   {
     "id": "045",
@@ -39,6 +49,7 @@
     "payment": "4567",
     "currency": "usd",
     "prepayment": "500",
+    "category": "Разработка / Проект",
     "autor": "Трофим",
     "autorImg": "http://photo.qip.ru/photo/marchiarchi/4294374/xlarge/108009290.jpg",
     "description": "Lorel ipsum dolor sit amet",
@@ -48,7 +59,11 @@
     "publicationDate": "",
     "siteType": "landing",
     "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien.",
+    "demands": ["требование","требование","требование"],
+    "addDemands": ["требование","требование","требование"],
+    "demandsCandidate": ["требование","требование","требование"],
+    "addDemandsCandidate": ["требование","требование","требование"]
   },
   {
     "id": "067",
@@ -56,6 +71,7 @@
     "payment": "200",
     "currency": "token",
     "prepayment": "50",
+    "category": "Разработка / Проект",
     "autor": "Аслан",
     "autorImg": "http://photo.qip.ru/photo/marchiarchi/4294374/xlarge/108009290.jpg",
     "description": "Lorel ipsum dolor sit amet",
@@ -65,6 +81,10 @@
     "publicationDate": "",
     "siteType": "onlineStore",
     "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien.",
+    "demands": ["требование","требование","требование"],
+    "addDemands": ["требование","требование","требование"],
+    "demandsCandidate": ["требование","требование","требование"],
+    "addDemandsCandidate": ["требование","требование","требование"]
   }
 ]
