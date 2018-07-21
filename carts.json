@@ -90,5 +90,28 @@
     "addDemands": ["требование","требование","требование"],
     "demandsCandidate": ["требование","требование","требование"],
     "addDemandsCandidate": ["требование","требование","требование"]
+  },
+  {
+    "id": "068",
+    "title": "Lorem ipsum dolor",
+    "payment": "10000",
+    "currency": "token",
+    "prepayment": "0",
+    "category": "Разработка / Проект",
+    "forWhom": "Все",
+    "autor": "Дональд",
+    "autorImg": "http://photo.qip.ru/photo/marchiarchi/4294374/xlarge/108009290.jpg",
+    "description": "Lorel ipsum dolor sit amet",
+    "deadline": "7000",
+    "subscribe": "200",
+    "numberOfViews": "6000",
+    "publicationDate": "",
+    "siteType": "onlineStore",
+    "img": "https://cu2.uicdn.net/b14/cdcd63eb9f247b80f54a41d82680a/webapp/site_sign.png",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit lorem at lectus porta, vel vehicula risus viverra. Quisque interdum, turpis eget vulputate condimentum, massa magna sagittis ligula, vel varius augue nisl ut justo. Nulla eu feugiat leo. Pellentesque mauris turpis, fringilla sit amet eros sit amet, tempus vehicula neque. Morbi condimentum auctor velit, a mollis diam. Nulla gravida maximus sapien.",
+    "demands": ["требование","требование","требование"],
+    "addDemands": ["требование","требование","требование"],
+    "demandsCandidate": ["требование","требование","требование"],
+    "addDemandsCandidate": ["требование","требование","требование"]
   }
 ]
